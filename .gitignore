@@ -4,7 +4,6 @@
 # data files and output files
 lstm/*
 data/*
-Sets/*
 cache/
 
 ### macOS ###
